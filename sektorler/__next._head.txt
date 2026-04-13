@@ -3,6 +3,6 @@
 4:I[39079,["/_next/static/chunks/9a63a2bd1c07a92a.js","/_next/static/chunks/03f347a89a219b13.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
 7:I[52547,["/_next/static/chunks/9a63a2bd1c07a92a.js","/_next/static/chunks/03f347a89a219b13.js"],"IconMark"]
-0:{"buildId":"l8BtpQywAQPIOoDpNnhXn","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"tJxaZMrdCTaTx_0R4KXpF","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Sektörler - XSEN ERP"}],["$","meta","1",{"name":"description","content":"XSEN ERP çözümleri imalat, perakende, lojistik ve hizmet sektörlerinde işletmelere özel çözümler sunar."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/favicon.ico"}],["$","$L7","4",{}]]
