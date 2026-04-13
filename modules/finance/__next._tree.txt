@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/86f9a5cc20b78f3a.css","style"]
-:HL["/_next/static/chunks/d822b2c1dd85ff8b.css","style"]
+:HL["/_next/static/chunks/dfb13677e316e7c4.css","style"]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"uvgaTuE0CEG2raXKNG4RR","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"modules","paramType":null,"paramKey":"modules","hasRuntimePrefetch":false,"slots":{"children":{"name":"finance","paramType":null,"paramKey":"finance","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"_g6TueQVKdO7M34UdMtB5","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"modules","paramType":null,"paramKey":"modules","hasRuntimePrefetch":false,"slots":{"children":{"name":"finance","paramType":null,"paramKey":"finance","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
